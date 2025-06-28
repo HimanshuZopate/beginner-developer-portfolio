@@ -33,7 +33,7 @@ Welcome to my personal portfolio website! I'm **Himanshu Zopate**, a passionate 
  📸 Preview
 
 ![Portfolio Screenshot](screenshot.png)  
-_(Add your actual screenshot file named `screenshot.png` in the repo root)_
+
 
 
 🔗 Live Preview
